@@ -21,6 +21,5 @@ The code uses the following variables and functions:
 - `N`: This variable stores the number of cars to generate for the game.
 
 ## Watch the Demo Video
-
-<iframe width="560" height="315" src="test.mp4" frameborder="0" allowfullscreen></iframe>
+![Test](static/test.gif)
 
